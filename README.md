@@ -1,5 +1,5 @@
 # AnimatedGrassCutter
-Grass with animation and cutting effect
+Grass with wind animation and cutting effect
 
 ## Download
 
