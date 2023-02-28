@@ -1,7 +1,9 @@
 # AnimatedGrassCutter
 Grass with animation and cutting effect
 
+## Download
 
+Here is a [link](https://github.com/ozeecode/AnimatedGrassCutter/releases) for the download apk.
 
 Tested on Samsung Galaxy S8 with 10k grass
 
